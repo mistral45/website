@@ -1,0 +1,23 @@
+2 sections:
+
+    first section:
+
+    Most common options and settings for CSS
+
+    - check boxes
+    - radio boxes
+    - sliders (?)
+    - text boxes (?)
+    - whatever other stuff i need
+
+    Second section:
+    Showcase of the picked options
+    either only for 1 selected element or for all of them at once
+
+Js code in first section changed the CSS code for the second section (using `` ?)
+How do I put that changed code to use? Can I css code reference js script?
+
+try to use in code:
+switches
+ternary operators
+

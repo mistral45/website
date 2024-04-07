@@ -1,0 +1,30 @@
+body{
+    display: block;
+    text-align: center;
+    font-size: 1em;
+    font-family: Helvetica;
+}
+header{
+    font-size:3em;
+}
+label{
+    font-size:2em;
+}
+.buttons{
+    padding: 5px 10px;
+    font-size: 1.5em;
+    color: rgb(255, 255, 255);
+    background-color: blue; 
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+.buttons:hover{
+    background-color: rgb(107, 107, 253); 
+}
+.inputs{
+    padding: 5px 10px;
+    font-size: 1.5em;
+    background-color: rgb(186, 193, 253); 
+}
+/*TO BE FINISHED AS CURRENT LOOKS ASS */

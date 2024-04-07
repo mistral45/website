@@ -1,0 +1,10 @@
+#everything{
+    border: 3px solid;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    position: relative;
+}
+body{
+    margin: 0;
+}
